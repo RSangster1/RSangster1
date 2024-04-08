@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 My name is Robbie Sangster a student at Abertay University Dundee, I am currently looking for entry level/graduate employment oppertunities for software engineering and data science.
 
